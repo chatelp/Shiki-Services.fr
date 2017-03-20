@@ -9,7 +9,7 @@
 - Tested up to:		4.4
 
 ## Description
-Shiki-Services is a modern responsive Wordpress Theme based on Zerif Lite by ThemeIsle.com. It's perfect for web agencies, digital studios, corporate, product showcase, personal and business portfolio.
+Shiki-Services is a modern responsive Wordpress Theme for [Shiki Services](shiki-services.fr) based on Zerif Lite by ThemeIsle.com. It's perfect for web agencies, digital studios, corporate, product showcase, personal and business portfolio.
 
 ![](https://github.com/chatelp/Shiki-Services.fr/blob/master/screenshot.png?raw=true)
 
