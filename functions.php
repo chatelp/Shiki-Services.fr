@@ -644,7 +644,7 @@ class zerif_ourfocus extends WP_Widget {
 				}
 			?>
 
-            <h3 class="red-border-bottom"><?php if( !empty($instance['title']) ): echo apply_filters('widget_title', $instance['title']); endif; ?></h3>
+            <h3 class="grey-border-bottom"><?php if( !empty($instance['title']) ): echo apply_filters('widget_title', $instance['title']); endif; ?></h3>
             <!-- FOCUS HEADING -->
 
 			<?php
@@ -1031,7 +1031,7 @@ class zerif_team_widget extends WP_Widget{
 
 					<?php if( !empty($instance['name']) ): ?>
 
-						<h3 class="dark-text red-border-bottom"><?php echo apply_filters('widget_title', $instance['name']); ?></h3>
+						<h3 class="dark-text grey-border-bottom"><?php echo apply_filters('widget_title', $instance['name']); ?></h3>
 
 					<?php endif; ?>
 
