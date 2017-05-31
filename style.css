@@ -2044,7 +2044,7 @@ width: -webkit-calc(100% / 4);
 }
 .pirate_forms .pirate-forms-submit-button:hover {
 	color: #FFF;
-	background: #808080;
+	background: #346F8C;
 }
 .pirate_forms_wrap label {
 	width: 100%;
@@ -3265,7 +3265,7 @@ article .posted-on a:hover{
 	content: "";
 	width: 10%;
 	height: 2px;
-	background: #95AB62;
+	background: #346F8C;
 	bottom: -9px;
 	left: 0;
 }
@@ -3276,7 +3276,7 @@ article .posted-on a:hover{
 	content: "";
 	width: 35%;
 	height: 2px;
-	background: #95AB62;
+	background: #346F8C;
 	bottom: -9px;
 	left: 0;
 	width: 50px;
