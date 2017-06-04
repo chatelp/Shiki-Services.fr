@@ -330,10 +330,10 @@ h6 {
 	background: #95AB63;
 }
 .blue-btn {
-	background: #346F8C;
+	background: #95AB63;
 }
 .yellow-btn {
-	background: #E7AC44;
+	background: #95AB63;
 }
 .red-btn,.green-btn,.blue-btn,.yellow-btn {
 	color: #FFF !important;
@@ -342,19 +342,19 @@ h6 {
 }
 .blue-btn:hover {
 	color: #FFF;
-	background: #808080;
+	background: #346F8C;
 }
 .red-btn:hover {
 	color: #FFF;
-	background: #808080;
+	background: #346F8C;
 }
 .green-btn:hover {
 	color: #FFF;
-	background: #808080;
+	background: #346F8C;
 }
 .yellow-btn:hover {
 	color: #FFF;
-	background: #808080;
+	background: #346F8C;
 }
 .btn:hover{
     box-shadow: none;
@@ -2878,7 +2878,7 @@ width: -webkit-calc(100% / 4);
 }
 .feedback-box .client-info .client-name {
 	font-family: 'Homemade Apple', serif;
-	color: #404040;
+	color: #346F8C;
 }
 .feedback-box .client-info .client-company {
 	font-size: 13px;
